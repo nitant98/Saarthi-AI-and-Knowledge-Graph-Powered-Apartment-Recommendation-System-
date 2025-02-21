@@ -1,7 +1,7 @@
 import pandas as pd
 import requests
 
-API_KEY = 'AIzaSyD7x0mOVhfJTX-YYhApKkjz5BNbgVAmwCU'
+API_KEY = ''
 
 def get_lat_long(site_name, zip_code):
     try:
