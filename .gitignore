@@ -1,3 +1,5 @@
 .venv
 venv
 .env
+* linguist-vendored
+*.js linguist-vendored=false
